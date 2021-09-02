@@ -1,0 +1,2 @@
+# LuckyCatCoinFlip-Discord-Bot
+PersonalDiscordBot
